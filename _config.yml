@@ -2,7 +2,7 @@ baseurl: '/'
 permalink: pretty
 
 title: "Try On fabric"
-baseurl: ""
+baseurl: "/tryonfabric"
 url: "https://www.tryonfabric.com"
 
 logo:
